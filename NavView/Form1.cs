@@ -20,7 +20,7 @@ namespace NavView
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Hello World!");
-            this.BackColor = Color.Green;
+            pictureBox1.BackColor = Color.Green;
         }
     }
 }
